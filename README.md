@@ -1,2 +1,2 @@
-# takoyaki.github.io
-xtraky's technical memorandum
+- [A Cost Analysis of Generative Language Models and Influence Operations](https://arxiv.org/abs/2308.03740v1)
+  - aiu
